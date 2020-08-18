@@ -1,0 +1,9 @@
+Package: com.panjoel.likehide
+Name: likehide
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: panjoel
+Author: panjoel
+Section: Tweaks
